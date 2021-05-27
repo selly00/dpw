@@ -7,7 +7,7 @@ Kesimpulan saya pada pertemuan ke-5 adalah : <br>
 1. Membuat dokumen html untuk formulir, kemudian data yang diinput dari form nanti akan di proses di mysql.
 2. Memahami form maka juga dapat menggunakan CRUD.
 3. Pada tampilan form sederhana terdapat heading juga label.
-4. Menurut teori membuat form menggunakan tag an <form_></form_>.
+4. Menurut teori membuat form menggunakan tag an <for.m></for.m>.
 5. Pada tag <form_> memiliki method Get juga post yang memiliki perbedaan dari cara form mengirimkan value untuk diproses.
 6. Kekurangan dalam menggunakan method get privasi kurang terjaga.
 7. Oleh sebab itu untuk alasan tertentu lebih baik menggunakan method post.
