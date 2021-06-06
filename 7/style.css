@@ -1,0 +1,40 @@
+body {
+	font-family: Verdana;
+}
+.header {
+	background: rgb(2,0,36);
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(184,32,226,1) 39%, rgba(0,212,255,1) 100%);
+	color: pink;
+}
+
+a.navigasi:link {
+	display: inline-block;
+	width: 120px; 
+	height: 25px;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+	white-space: nowrap; 
+  border-radius: 5px;
+  border: 1px solid #000000;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: pink;
+  background: #FFFF00;
+  text-decoration: none;
+  font-family: Tahoma;
+}
+
+a.navigasi:visited {
+  
+}
+
+a.navigasi:hover {
+  background: #8800CC;
+  font-weight: bolder;
+  color: white;
+}
+
+a.navigasi:active {
+  background-color: #FF0000;
+}
